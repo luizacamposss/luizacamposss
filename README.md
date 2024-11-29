@@ -8,11 +8,12 @@
 Procuro uma posição como Desenvolvedora Júnior para colaborar em projetos desafiadores e contribuir para o sucesso da equipe, aplicando minhas habilidades em [linguagens ou frameworks específicos, como HTML, CSS, JavaScript, etc.]. Estou motivada a aprender novas tecnologias, aprimorar minhas competências técnicas e evoluir profissionalmente em um ambiente dinâmico e colaborativo.
 
 ---
+### 🌍 Localização
+* 📌 Salvador, Bahia, Brasil
 
 ### 📫 Contato
-* 🌍📌 Salvador, Bahia, Brasil
 * ✉️ [mluizafields@gmail.com](mailto:mluizafields@gmail.com)
-
+* 📱 (71) 98358-1400 
 ---
 
 ### 🔧 Skills 

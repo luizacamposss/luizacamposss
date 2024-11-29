@@ -1,18 +1,17 @@
-# Olá, eu sou a Luiza Campos! 
+# Prazer, Luiza!
 ![Luiza Campos](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 ---
 
 ## 🧑‍💻 Desenvolvedora Júnior
 
-Atualmente, estou cursando Desenvolvimento de Sistemas e dando os primeiros passos na programação. Meu objetivo é me tornar uma desenvolvedora full stack, buscando constantemente expandir meus conhecimentos e habilidades na área que sempre me fascinou.
+Procuro uma posição como Desenvolvedora Júnior para colaborar em projetos desafiadores e contribuir para o sucesso da equipe, aplicando minhas habilidades em [linguagens ou frameworks específicos, como HTML, CSS, JavaScript, etc.]. Estou motivada a aprender novas tecnologias, aprimorar minhas competências técnicas e evoluir profissionalmente em um ambiente dinâmico e colaborativo.
 
 ---
 
 ### 📫 Contato
-* 🌍 Brasil
-* ✉️ [luizacamposss@gmail.com](mailto:luizacamposss@gmail.com)
-* ⚡ Sou uma grande fã de jogos!
+* 🌍📌 Salvador, Bahia, Brasil
+* ✉️ [mluizafields@gmail.com](mailto:mluizafields@gmail.com)
 
 ---
 
@@ -64,7 +63,7 @@ Atualmente, estou cursando Desenvolvimento de Sistemas e dando os primeiros pass
 ---
 
 ### 💼 Experiência
-* Atualmente em busca de oportunidades para aplicar meus conhecimentos em projetos práticos.
+* Busco minha primeira oportunidade em Desenvolvimento de Sistemas para aplicar e expandir meus conhecimentos, com dedicação e vontade de aprender.
 
 ---
 
@@ -74,9 +73,9 @@ Atualmente, estou cursando Desenvolvimento de Sistemas e dando os primeiros pass
 ---
 
 ### 🌟 Hobbies
-* Jogar vídeo game
-* Ler livros de ficção científica
-* Explorar novas tecnologias
+* Jogar 
+* Ler livros 
+* Explorar novos conhecimentos
 
 ---
 
@@ -86,7 +85,7 @@ Meu objetivo é me tornar uma especialista em desenvolvimento full stack e contr
 ---
 
 ### 💬 Filosofia
-"A programação é como a arte: é preciso praticar e ser criativo para criar algo belo."
+"Cada problema que resolvi tornou-se uma regra que serviu para resolver outros problemas." - René Descartes
 
 ---
 
@@ -108,8 +107,6 @@ Meu objetivo é me tornar uma especialista em desenvolvimento full stack e contr
 
 ### 🔗 Minhas Redes Sociais
 * [GitHub](https://github.com/luizacamposss)
-* [Twitch](https://www.twitch.tv/baiano_de_moraes)
-* [Instagram](https://www.instagram.com/britt0.dev/)
-* [LinkedIn](link-do-linkedin)
+* [Instagram](https://www.instagram.com/lui.campus/)
 
 ---

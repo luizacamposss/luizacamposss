@@ -5,7 +5,7 @@
 
 ## 👩‍💻 Desenvolvedora Júnior 
 
-Procuro uma posição como Desenvolvedora Júnior para colaborar em projetos desafiadores e contribuir para o sucesso da equipe, aplicando minhas habilidades em [linguagens ou frameworks específicos, como HTML, CSS, JavaScript, etc.]. Estou motivada a aprender novas tecnologias, aprimorar minhas competências técnicas e evoluir profissionalmente em um ambiente dinâmico e colaborativo.
+Procuro uma posição como Desenvolvedora Júnior para colaborar em projetos desafiadores e contribuir para o sucesso da equipe, aplicando minhas habilidades. Estou motivada a aprender novas tecnologias, aprimorar minhas competências técnicas e evoluir profissionalmente em um ambiente dinâmico e colaborativo.
 
 ---
 ### 🌍 Localização
